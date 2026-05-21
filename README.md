@@ -47,4 +47,6 @@
   # 2.3. Execute a aplicação: Com o projeto aberto, basta pressionar a tecla 'F5' (ou clicar no botão verde de "Play/Iniciar" no topo do Visual Studio) para rodar o sistema de estacionamento.
   ```
 
-### Desenvolvido por Kauan Koenigkan
+## 👨‍💻 Autor
+
+Desenvolvido por Kauan Koenigkan.
