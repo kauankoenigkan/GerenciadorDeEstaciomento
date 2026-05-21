@@ -44,4 +44,6 @@
 
   # 2.2. Abra o arquivo do projeto: Extraia os arquivos e dê um duplo clique no arquivo `.sln` ou `.csproj`. Isso abrirá o projeto direto no Visual Studio.
 
-  # 2.3. Execute a aplicação: Com o projeto aberto, basta pressionar a tecla 'F5' (ou clicar no botão verde de "Play/Iniciar" no topo do Visual Studio) para rodar o sistema de estacionamento.
+  # 2.3. Execute a aplicação: Com o projeto aberto, basta pressionar a tecla 'F5' (ou clicar no botão verde de "Play/Iniciar" no topo do Visual Studio) para rodar o sistema de estacionamento.```
+
+Desenvolvido por Kauan Rodrigues.
